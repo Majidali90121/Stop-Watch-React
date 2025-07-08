@@ -1,0 +1,22 @@
+.b{
+    justify-content: center;
+    text-align: center;
+    border: 0.5px solid rgba(255,255,255,0.3);
+    padding: 60px;
+    border-radius: 5rem;
+    background: transparent;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px) ;
+    color: white;
+}
+h1{
+    color:white;
+}
+.c{
+
+    width:100%;
+    height:100%;
+}
+.q{
+    text-align: center;
+}
