@@ -39,3 +39,18 @@ A simple yet functional **Stopwatch Application** built to track time with preci
 
 ## 📂 Project Structure
 
+Stopwatch/
+├── index.html
+├── style.css
+├── script.js
+├── Stop-Watch.png
+└── README.md
+
+
+---
+
+## 📬 Contact
+
+For feedback, suggestions, or improvements, feel free to connect! 🚀  
+
+---
