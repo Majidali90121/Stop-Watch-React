@@ -34,13 +34,6 @@ A clean and responsive **Stopwatch Application** built with ReactJS, designed to
 1. Make sure **Node.js** and **npm** are installed  
 2. Clone the repository  
 
-```bash
-git clone https://github.com/Majidali90121/Stopwatch-App.git  
-cd Stopwatch-App  
-npm install  
-npm start  
-
-
 ## 📂 Project Structure
 
 Stopwatch-App/ <br/>
@@ -64,3 +57,12 @@ Stopwatch-App/ <br/>
 For feedback, suggestions, or improvements, feel free to connect! 🚀  
 
 ---
+
+
+```bash
+git clone https://github.com/Majidali90121/Stopwatch-App.git  
+cd Stopwatch-App  
+npm install  
+npm start  
+```
+
