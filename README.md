@@ -39,12 +39,12 @@ A simple yet functional **Stopwatch Application** built to track time with preci
 
 ## 📂 Project Structure
 
-Stopwatch/
-├── index.html
-├── style.css
-├── script.js
-├── Stop-Watch.png
-└── README.md
+Stopwatch/<br/>
+├── index.html<br/>
+├── style.css<br/>
+├── script.js<br/>
+├── Stop-Watch.png<br/>
+└── README.md<br/>
 
 
 ---
