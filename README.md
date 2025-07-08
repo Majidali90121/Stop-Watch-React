@@ -1,6 +1,6 @@
-# ⏱️ Stopwatch App
+# ⏱️ React Stopwatch App
 
-A simple yet functional **Stopwatch Application** built to track time with precision and ease. 
+A clean and responsive **Stopwatch Application** built with ReactJS, designed to track time with precision.  
 
 ---
 
@@ -8,8 +8,8 @@ A simple yet functional **Stopwatch Application** built to track time with preci
 
 ✔️ **Start** — Begin time tracking  
 ✔️ **Stop** — Pause the timer  
-✔️ **Reset** — Reset the time to 00:00  
-✔️ **Lap** — Record lap times for interval tracking  
+✔️ **Reset** — Reset the timer to 00:00  
+✔️ **Lap** — Record lap times  
 
 ---
 
@@ -23,26 +23,30 @@ A simple yet functional **Stopwatch Application** built to track time with preci
 
 ## 🛠️ Technologies Used
 
-- **HTML**  
-- **CSS**  
-- **JavaScript**  
+- ⚛️ **ReactJS**  
+- 🎨 **CSS**  
+- ✨ **JavaScript (ES6)**  
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Run
 
-1. Open the project folder  
-2. Run the `index.html` file in your browser  
-3. Start the stopwatch and track your time  
+1. Make sure **Node.js** and **npm** are installed  
+2. Clone the repository  
 
----
+```bash
+git clone https://github.com/Majidali90121/Stopwatch-App.git  
+cd Stopwatch-App  
+npm install  
+npm start  
+
 
 ## 📂 Project Structure
 
 Stopwatch-App/ <br/>
 ├── public/ <br/>
 │   ├── index.html <br/>
-│   ├── Stop-Watch.png <br/>
+│   
 ├── src/ <br/>
 │   ├── App.js <br/>
 │   ├── App.css <br/>
